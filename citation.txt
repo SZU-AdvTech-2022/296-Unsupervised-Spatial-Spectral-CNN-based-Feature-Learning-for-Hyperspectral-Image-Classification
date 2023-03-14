@@ -1,0 +1,8 @@
+@article{REPO-297,
+    author = "Zhang, Shuyu and Xu, Meng and Zhou, Jun and Jia, Sen",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    pages = "1--17",
+    title = "{Unsupervised Spatial-Spectral CNN-based Feature Learning for Hyperspectral Image Classification}",
+    volume = "60",
+    year = "2022"
+}
